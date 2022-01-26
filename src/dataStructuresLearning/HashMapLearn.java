@@ -1,4 +1,4 @@
-package dataStructures;
+package dataStructuresLearning;
 
 //from Angie's technical interview for automation testers
 

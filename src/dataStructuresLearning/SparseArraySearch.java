@@ -1,4 +1,4 @@
-package dataStructures;
+package dataStructuresLearning;
 
 //this is from edx - oops with java - course
 

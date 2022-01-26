@@ -1,4 +1,4 @@
-package dataStructures;
+package dataStructuresLearning;
 
 // from tau java course
 

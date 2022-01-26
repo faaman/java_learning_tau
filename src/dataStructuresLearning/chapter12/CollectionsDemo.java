@@ -1,4 +1,4 @@
-package dataStructures.chapter12;
+package dataStructuresLearning.chapter12;
 
 import java.util.HashMap;
 import java.util.HashSet;

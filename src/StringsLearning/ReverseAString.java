@@ -1,8 +1,11 @@
-package chapter8Strings;
+package StringsLearning;
 
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
+
+// Consider a string "Hello Good Morning"
+// it should print the sentence in reverse order output should be "Morning Good Hello"
 
 public class ReverseAString {
     public static void main(String[] args){
